@@ -1,2 +1,2 @@
-tdc
+tdc 1
 cua main
