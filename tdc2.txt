@@ -1,8 +1,0 @@
-tdc2
-123
-<<<<<<< Updated upstream
-123
-=======
-456
-567
->>>>>>> Stashed changes
